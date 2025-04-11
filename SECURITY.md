@@ -1,8 +1,8 @@
 # Security
-As part of a our [risk assessment](https://kb.extendhealth.com/x/o5H7Cg), a [threat modeling](https://kb.extendhealth.com/x/YJeFCg) excercise may be performed to identify, communicate, and understand threats and mitigations from a change.
+As part of a our [risk assessment](https://im-kb.internal.towerswatson.com/x/o5H7Cg), a [threat modeling](https://im-kb.internal.towerswatson.com/x/YJeFCg) excercise may be performed to identify, communicate, and understand threats and mitigations from a change.
 
-Before [production changes](https://kb.extendhealth.com/x/5AZmEQ) are introduced, security impacts are considered and reviewed by [subject matter expects](https://kb.extendhealth.com/x/thJGCg).
+Before [production changes](https://im-kb.internal.towerswatson.com/x/5AZmEQ) are introduced, security impacts are considered and reviewed by [subject matter expects](https://im-kb.internal.towerswatson.com/x/thJGCg).
 
-If a _security vulnerability_ is found in production, a _security bug_ is filed with an attached [DREAD score](https://kb.extendhealth.com/x/SIQ7Dg) in the [WE Jira Project](https://kb.extendhealth.com/x/EBCGCQ).  The owning product manager determines the _priority_ and _severity_ of the security bug.
+If a _security vulnerability_ is found in production, a _security bug_ is filed with an attached [DREAD score](https://im-kb.internal.towerswatson.com/x/SIQ7Dg) in the [WE Jira Project](https://im-kb.internal.towerswatson.com/x/EBCGCQ).  The owning product manager determines the _priority_ and _severity_ of the security bug.
 
-> See [WE: Security Bug Management](https://kb.extendhealth.com/x/wSyGCQ) for additional details.
+> See [WE: Security Bug Management](https://im-kb.internal.towerswatson.com/x/wSyGCQ) for additional details.
