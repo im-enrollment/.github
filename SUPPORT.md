@@ -19,7 +19,7 @@ The product family defines yearly product level objectives.  The teams within ge
 
 ---
 # Software Development Life Cycle
-Units of work are prioritized against a backlog in our [WE Jira Project](https://jira.extendhealth.com/secure/RapidBoard.jspa?rapidView=665) by [Product Owners](https://im-kb.internal.towerswatson.com/x/5bNaCg) and owning teams.
+Units of work are prioritized against a backlog in our [WE Jira Project](https://im-jira.internal.towerswatson.com/secure/RapidBoard.jspa?rapidView=665) by [Product Owners](https://im-kb.internal.towerswatson.com/x/5bNaCg) and owning teams.
 
 In most cases, changes are implemented in a [Feature Branch git Workflow](https://im-kb.internal.towerswatson.com/x/T58QEg) style, generating a [Pull Request](https://im-kb.internal.towerswatson.com/x/UTWwCg) that is reviewed by a [technical attestor](https://im-kb.internal.towerswatson.com/x/2gZmEQ).
 
