@@ -1,6 +1,6 @@
 # Repo Migrated
 
-This repo is migrated.  You can find the new repo in the new organization [wtw-bdoim](https://github.com/wtw-bdoim/DEVO-1331)
+This repo is migrated.  You can find the new repo in the new organization [wtw-bdoim](https://github.com/wtw-bdoim/.github)
 
 ## .github
 [Community Health Files](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization) for the Web Experience Product Family.
