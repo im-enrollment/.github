@@ -1,3 +1,8 @@
+> ⚠️ **Repository Archived** — Migrated to [wtw-bdoim/.github](https://github.com/wtw-bdoim/.github) on June 22, 2026
+>
+> This repository has been archived and is no longer actively maintained.
+> See documentation for migration details.
+
 # Repo Migrated
 
 This repo is migrated.  You can find the new repo in the new organization [wtw-bdoim](https://github.com/wtw-bdoim/.github)
